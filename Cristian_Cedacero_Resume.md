@@ -16,7 +16,7 @@ solutions to improve people's lives.
 JavaScript, Ruby, Python, CSS3, HTML5, Ruby on Rails, Material-ui,BootStrap, React, Redux, PostgreSQL,
 Sqlite, ActiveRecord, Sinatra, Bcrypt & JWT, git, WCAG Testing, Jest, RTL,Heroku, Google Compute Engine,Amazon S3, Cloudinary,Nginx, SEO.   
   
-**TECHNICAL PROJECTS
+**TECHNICAL PROJECTS    
 ¿Cómo se dice? -** ​ **[Github](https://github.com/ccedacero/como-se-dice)** **|** **[Demo](https://www.youtube.com/watch?v=zymhOk7uurQ)**  
 A platform to help Spanish speaking farm workers learn English. It parses Berkley’s Agricultural Personnel  
 Management English learning resources to create a centralized and interactive tool.  
