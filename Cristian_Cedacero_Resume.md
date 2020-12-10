@@ -11,9 +11,11 @@
 Software Engineer with experience building fullstack applications using Rails, JavaScript, and React.js. Looking to
 combine my passion for code with my leadership and collaborative skills to tackle challenging problems and build
 solutions to improve people's lives.  
+
 **TECHNICAL SKILLS**  
 JavaScript, Ruby, Python, CSS3, HTML5, Ruby on Rails, Material-ui,BootStrap, React, Redux, PostgreSQL,
 Sqlite, ActiveRecord, Sinatra, Bcrypt & JWT, git, WCAG Testing, Jest, RTL,Heroku, Google Compute Engine,Amazon S3, Cloudinary,Nginx, SEO.   
+  
 **TECHNICAL PROJECTS  
 ¿Cómo se dice? -** ​ **[Github](https://github.com/ccedacero/como-se-dice)** **|** **[Demo](https://www.youtube.com/watch?v=zymhOk7uurQ)**  
 A platform to help Spanish speaking farm workers learn English. It parses Berkley’s Agricultural Personnel  
@@ -42,7 +44,7 @@ were able to carry out 2020 Census responsibilities.
 ● Developed content and designed websites for small businesses.  
 ● Implemented SEO strategies to increase domain and page authority and increase Google rankings.  
 **Peace Corps - Medical Support Specialist Washington, DC** ​2017 - 2019  
-● Trained and supported over 50 medical staff on Peace Corps Electronic Record Management System.
+● Trained and supported over 50 medical staff on Peace Corps Electronic Record Management System.  
 ● Used SharePoint to implement a ticketing system to distribute and delegate administrative workload amongst  
 health units.  
 ● Served on-call duty officer rotations, ensuring the safety and wellness of over 7000 Peace Corps volunteers, by  
