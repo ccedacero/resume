@@ -16,7 +16,7 @@ solutions to improve people's lives.
 JavaScript, Ruby, Python, CSS3, HTML5, Ruby on Rails, Material-ui,BootStrap, React, Redux, PostgreSQL,
 Sqlite, ActiveRecord, Sinatra, Bcrypt & JWT, git, WCAG Testing, Jest, RTL,Heroku, Google Compute Engine,Amazon S3, Cloudinary,Nginx, SEO.   
   
-**TECHNICAL PROJECTS  
+**TECHNICAL PROJECTS
 ¿Cómo se dice? -** ​ **[Github](https://github.com/ccedacero/como-se-dice)** **|** **[Demo](https://www.youtube.com/watch?v=zymhOk7uurQ)**  
 A platform to help Spanish speaking farm workers learn English. It parses Berkley’s Agricultural Personnel  
 Management English learning resources to create a centralized and interactive tool.  
@@ -26,16 +26,20 @@ Active Record, and Bcrypt.
 ● Utilized Google Translate API alongside Google’s Speech API to allow for real time text and voice translation.  
 ● Handled audio storage and file uploads using Amazon S3 and Cloudinary.  
 ● Integrated Twilio sms notifications upon successful account creation.  
+&nbsp;
 **Sojohub -** ​ **[Github](https://github.com/SoJoHub)** ​ **|** ​ **[Demo](https://www.youtube.com/watch?v=Fp_pAUOpzBY)**  
 A collaborative project that streamlines the job application process for software engineers, keeping track of  
 their applications and interviews and allowing them to connect with other engineers through forums.  
 ● Developed a Rails Restful API with endpoints for applications, interviews, and threads.  
 ● Implemented JSON Web Tokens and localstorage to implement authentication and authorization.  
 ● Styled frontend using custom CSS and Material-ui.  
+&nbsp;
+&nbsp;
 **Favebus -** ​ **[Github](https://github.com/ccedacero/favebus)** ​ **|** ​ **[Demo](https://www.youtube.com/watch?v=hNDIfZTDAq8)**  
 An app that uses NYC’s MTA’s bus tracking API to provide users with real time bus arrival information.  
 ● Implemented backend logic and user authentication using Ruby on Rails, Sqlite, Active Record, and Bcrypt.  
 ● Imported and parsed thousands of csv entries to locate and fetch bus stops.  
+
 **EXPERIENCE  
 U.S. Census Bureau - IT Specialist Melville, NY** ​ 2020   
 ● Provided in person and remote hardware and software troubleshooting support to ensure field and office staff  
@@ -50,6 +54,7 @@ health units.
 ● Served on-call duty officer rotations, ensuring the safety and wellness of over 7000 Peace Corps volunteers, by  
 ensuring 24/7 consistent incident communication between field medical officers, HQ medical staff, local  
 authorities, volunteers, and parents worldwide.  
+
 **EDUCATION  
 Flatiron School** ​ **New York, NY** ​ 2020   
 Comprehensive Software Engineering immersive  
