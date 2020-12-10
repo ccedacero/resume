@@ -1,8 +1,8 @@
 <div align="center">   <h1>CRISTIAN CEDACERO</h1>
 
-### <img src="envelope-open-text-solid.svg" alt="open envelope icon" width="15" /> cristian.cedacero@gmail.com | <img src="internet-explorer-brands.svg" alt="Microsoft internet explorer icon" width="15" /> [ccedacero.com](ccedacero.com) | <img src="mobile-alt-solid.svg" alt="cellphone icon" width="13"/> (347) 389-4824‬
+### <img src="envelope-open-text-solid.svg" alt="open envelope icon" width="15" /> cristian.cedacero@gmail.com | <img src="internet-explorer-brands.svg" alt="Microsoft internet explorer icon" width="15" /> [ccedacero.com](https://ccedacero.com/) | <img src="mobile-alt-solid.svg" alt="cellphone icon" width="10"/> (347) 389-4824‬
 
-### <img src="linkedin-in-brands.svg" alt="LinkedIn icon" width="15" /> linkedin.com/in/ccedacero | <img src="github-brands.svg" alt="github icon" width="15"> github.com/ccedacero | <img src="twitter-brands.svg" alt="twitter icon" width="15"> [@ccedacero](https://twitter.com/ccedacero)
+### <img src="linkedin-in-brands.svg" alt="LinkedIn icon" width="15" /> [linkedin.com/in/ccedacero](https://www.linkedin.com/in/ccedacero/) | <img src="github-brands.svg" alt="github icon" width="15"> [github.com/ccedacero](github.com/ccedacero) | <img src="twitter-brands.svg" alt="twitter icon" width="15"> [@ccedacero](https://twitter.com/ccedacero)
 
 </div>
 
