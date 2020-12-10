@@ -1,8 +1,8 @@
 <div align="center">   <h1>CRISTIAN CEDACERO</h1>
 
-### <img src="envelope-open-text-solid.svg" style="width:17px; background: white" alt="open envelope icon">cristian.cedacero@gmail.com​ | <img src="internet-explorer-brands.svg" style="width:17px; background: white" alt="Microsoft internet explorer icon"> [ccedacero.com](ccedacero.com​) | <img src="mobile-alt-solid.svg" style="width:14px; background: white" alt="cellphone icon"> (347) 389-4824‬
+### <img src="envelope-open-text-solid.svg" alt="open envelope icon" width="15" />cristian.cedacero@gmail.com | <img src="internet-explorer-brands.svg" style="width:17px; background: white" alt="Microsoft internet explorer icon" width="15" /> [ccedacero.com](ccedacero.com) | <img src="mobile-alt-solid.svg" style="width:14px; background: white" alt="cellphone icon" width="15"/> (347) 389-4824‬
 
-### <img src="linkedin-in-brands.svg" style="width:17px; background: white" alt="LinkedIn icon"> linkedin.com/in/ccedacero​ | <img src="github-brands.svg" style="width:17px; background: white" alt="github icon"> github.com/ccedacero​ | <img src="twitter-brands.svg" style="width:17px; background: white" alt="twitter icon"> [@​ccedacero](https://twitter.com/ccedacero)
+### <img src="linkedin-in-brands.svg" alt="LinkedIn icon" width="15" />linkedin.com/in/ccedacero | <img src="github-brands.svg" style="width:17px; background: white" alt="github icon" width="15"> github.com/ccedacero | <img src="twitter-brands.svg" style="width:17px; background: white" alt="twitter icon" width="15"> [@ccedacero](https://twitter.com/ccedacero)
 
 </div>
 
